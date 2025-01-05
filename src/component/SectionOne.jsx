@@ -2,7 +2,7 @@ import React from "react";
 
 const SectionOne = () => {
   return (
-    <div className="section-1 grid  xl:grid-cols-2 my-12 px-4 md:pr-16 md:pl-20">
+    <div className="section-1 grid  xl:grid-cols-2 my-12 px-6 md:px-24">
       <div className="left justify-self-center xl:justify-self-start ">
         <h2 className=" text-center xl:text-start text-3xl mb-20 leading-normal ">
           Khwaahish <br></br>
